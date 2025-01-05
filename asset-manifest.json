@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monportfolio/static/css/main.1631f0f6.css",
+    "main.js": "/monportfolio/static/js/main.07c0861c.js",
+    "static/js/453.b05d8aa5.chunk.js": "/monportfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/monportfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/monportfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/cisco1.jpg": "/monportfolio/static/media/cisco1.fa3a970ff31ff994b5d8.jpg",
+    "static/media/juniper.jpg": "/monportfolio/static/media/juniper.f5e5a03c4158beddb5fb.jpg",
+    "static/media/clientmail.png": "/monportfolio/static/media/clientmail.f59f7ccda939d7a4c0a5.png",
+    "static/media/activedirectory.jpg": "/monportfolio/static/media/activedirectory.f3d92e8ddaaf7b1d8e0a.jpg",
+    "static/media/pentesting.png": "/monportfolio/static/media/pentesting.99151ef07a45dce70c42.png",
+    "static/media/NEmu.jpg": "/monportfolio/static/media/NEmu.f3424e8986e64c9d0403.jpg",
+    "index.html": "/monportfolio/index.html",
+    "main.1631f0f6.css.map": "/monportfolio/static/css/main.1631f0f6.css.map",
+    "main.07c0861c.js.map": "/monportfolio/static/js/main.07c0861c.js.map",
+    "453.b05d8aa5.chunk.js.map": "/monportfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1631f0f6.css",
+    "static/js/main.07c0861c.js"
+  ]
+}
