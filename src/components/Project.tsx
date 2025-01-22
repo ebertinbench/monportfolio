@@ -8,6 +8,9 @@ import AD from '../assets/images/activedirectory.jpg';
 import pentesting from '../assets/images/pentesting.png';
 import nemu from '../assets/images/NEmu.jpg';
 import clientmail from '../assets/images/clientmail.png';
+import odomo from '../assets/images/Odomo.jpg';
+import oralce from '../assets/images/oracle.png';
+import meteo from '../assets/images/interface.png';
 
 function Project() {
     return(
@@ -43,7 +46,22 @@ function Project() {
         </div>
         <h1>Développement full-stack-DevOps</h1>
         <div className="projects-grid">
-
+            <div className="project">
+                <a href="https://ebertinbench.github.io/portfolio?id=7" target="_blank" rel="noreferrer"><img src={odomo} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://ebertinbench.github.io/portfolio?id=7" target="_blank" rel="noreferrer"><h2>Station méteo programmable</h2></a>
+            </div>
+            <div className="project">
+                <a href="https://ebertinbench.github.io/portfolio?id=8" target="_blank" rel="noreferrer"><img src="" className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://ebertinbench.github.io/portfolio?id=8" target="_blank" rel="noreferrer"><h2>Gestionnaire de tournois</h2></a>
+            </div>
+            <div className="project">
+                <a href="https://ebertinbench.github.io/portfolio?id=9" target="_blank" rel="noreferrer"><img src={oralce} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://ebertinbench.github.io/portfolio?id=9" target="_blank" rel="noreferrer"><h2>Bases de données Oracle</h2></a>
+            </div>
+            <div className="project">
+                <a href="https://ebertinbench.github.io/portfolio?id=10" target="_blank" rel="noreferrer"><img src={meteo} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://ebertinbench.github.io/portfolio?id=10" target="_blank" rel="noreferrer"><h2>Visualisation de données climatiques</h2></a>
+            </div>
         </div>
     </div>
     );
